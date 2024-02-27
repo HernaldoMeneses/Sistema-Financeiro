@@ -1,0 +1,15 @@
+Sistema Finaceiro Nacional
+    Conjunto de Intituições financeiras
+    Manter Fluxo de recursos entre Poupadores e Tomadores (Mercado Financeiro)
+    Disciplinado pela Lei da Reforma Bancária, Lei n° 4.595, de 31 de Dezembro de 1964
+
+    Lei n° 4.595/1964 art.17
+        Consideram-se instituções financeiras, para efeitos da legislação em vigor,
+        as pessoas jurídicas públicas e privadas, que tenham como atividade principal ou acessória
+        a coleta, intermediação ou aplicação de recursos financeiros próprios ou de terceiros,
+        em moeda nacional ou estrangeira, e a custódia de valor de propriedade de terceiros.
+
+        Parag.Uni Equiparam-se às instituções Financeiras as pessoas físicas
+        que exerção quaisquer atividades referidas neste artigo, de forma permanente ou eventual.
+
+        (Agentes Autônomos de Investimentos)
