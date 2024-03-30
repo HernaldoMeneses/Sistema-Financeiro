@@ -30,6 +30,8 @@ política Econômica, Runiões Ordinárias, Extraordinárias comvocadas pelo pre
             coordenar as plíticas monetárias, creditícia, orçamentária, fiscal e da dívida pública;
             autorizar emissões de papel moeda;
             aprovar os orçamentos monetários preparados pelo Bacen;
+            fixar diretries e normas da política cambial;
+            outogar ao Banco Central o monopólio das operaç~eos de câmbio quando ocorrer grave desequilíbrio do balanço de pagamentos ou houver sérias razões para prevera iminência de tal situração.
 '
 
 :'Atribuições do Conselho atípicas
